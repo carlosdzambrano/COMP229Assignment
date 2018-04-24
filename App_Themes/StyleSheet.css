@@ -1,0 +1,76 @@
+﻿.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 21px 21px;
+        text-decoration: none;
+        padding-left: 30px;
+    }
+
+    .navbar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+a:hover {
+    color: Red;
+}
+
+.title {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+footer {
+    position: fixed;
+    Width: 100%;
+    bottom: 0;
+    padding-left: 42%;
+}
+
+.booksGrid {
+    padding-bottom: 100px;
+    width: 100%
+}
+
+.email {
+    width: 50%;
+    border:none
+    
+}
+
+.logout {
+    float:right
+    
+}
+
+th {
+    height: 30px;
+    text-transform: capitalize
+}
+
+td {
+    text-transform: capitalize
+}
+
+/*.ddl {
+    text-transform: capitalize;
+    float: left
+}*/

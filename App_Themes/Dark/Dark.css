@@ -1,0 +1,11 @@
+﻿body {
+    background-color: black;
+    color:white;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color: white;
+
+}
